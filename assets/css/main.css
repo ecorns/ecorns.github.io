@@ -1,5 +1,5 @@
 /**
-* Template Name: Nova
+* Template Name: Ecorns
 * Updated: Sep 18 2023 with Bootstrap v5.3.2
 * Template URL: https://bootstrapmade.com/nova-bootstrap-business-template/
 * Author: BootstrapMade.com
@@ -2175,4 +2175,12 @@ section {
   text-align: center;
   font-size: 13px;
   color: var(--color-secondary);
+}
+
+#navbar ul li:nth-child(3),
+#navbar ul li:nth-child(4),
+#navbar ul li:nth-child(5),
+#navbar ul li:nth-child(6),
+#navbar ul li:nth-child(7){
+  display: none;
 }
