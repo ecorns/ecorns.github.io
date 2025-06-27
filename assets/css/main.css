@@ -1,5 +1,5 @@
 /**
-* Template Name: Ecorns
+* Template Name: J&B
 * Updated: Sep 18 2023 with Bootstrap v5.3.2
 * Template URL: https://bootstrapmade.com/nova-bootstrap-business-template/
 * Author: BootstrapMade.com
